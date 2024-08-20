@@ -1,0 +1,84 @@
+.fundo {
+    background-color: rgb(3, 0, 42);
+    background-image: url("material/imagens/icone.png");
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: #78bede;
+    text-align: center;
+    font-family: "Trirong", serif;
+    font-size: 80px;
+    text-shadow: 0px 0px 55px;
+
+}
+
+.menu {
+    color: #5098b9;
+    text-align: center;
+    margin-bottom: 20px;
+    border-bottom: 2px #5098b9;
+    padding-bottom: 5px;
+}
+
+nav {
+    border-bottom: 2px solid #5098b9;
+    padding-bottom: 5px;
+}
+
+h2 {
+    color: #5098b9;
+    text-align: center;
+    font-family: "Trirong", serif;
+    border-bottom: 2px solid #5098b9;
+    padding-bottom: 5px;
+}
+
+.lateral {
+    display: flex;
+}
+
+table,
+th,
+td {
+    text-align: center;
+    color: rgb(178, 210, 231);
+    border: 1px solid #5098b9;
+    border-collapse: collapse;
+    margin-left: 50px;
+}
+
+.b {
+    font-size: large;
+    color: #5098b9;
+}
+
+p {
+    color: rgb(178, 210, 231);
+}
+
+.elementos {
+    color: rgb(178, 210, 231);
+}
+
+.musicas {
+    align-items: center;
+    display: block;
+}
+
+.alinhamento {
+    display: block;
+    margin-left: 500px;
+}
+
+.foto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.links {
+    color: #5098b9;
+    text-align: center;
+    background-color: #110538;
+}
